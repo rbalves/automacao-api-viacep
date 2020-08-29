@@ -1,0 +1,24 @@
+[
+  {
+    "cep": "94085-170",
+    "logradouro": "Rua Ari Barroso",
+    "complemento": "",
+    "bairro": "Morada do Vale I",
+    "localidade": "Gravataí",
+    "uf": "RS",
+    "unidade": "",
+    "ibge": "4309209",
+    "gia": ""
+  },
+  {
+    "cep": "94175-000",
+    "logradouro": "Rua Almirante Barroso",
+    "complemento": "",
+    "bairro": "Recanto Corcunda",
+    "localidade": "Gravataí",
+    "uf": "RS",
+    "unidade": "",
+    "ibge": "4309209",
+    "gia": ""
+  }
+]
